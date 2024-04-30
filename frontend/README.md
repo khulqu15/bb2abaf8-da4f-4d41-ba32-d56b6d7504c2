@@ -2,19 +2,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Screenshot
 ### Add New Data
-![alt](/screenshot/add.png)
+![alt](https://github.com/khulqu15/bb2abaf8-da4f-4d41-ba32-d56b6d7504c2/blob/main/frontend/screenshot/add.png?raw=true)
 
 ### Edit Data
-![alt](/screenshot/feature1.png)
+![alt](https://github.com/khulqu15/bb2abaf8-da4f-4d41-ba32-d56b6d7504c2/blob/main/frontend/screenshot/feature1.png?raw=true)
 
 ### Validation Data
-![alt](/screenshot/validation.png)
+![alt](https://github.com/khulqu15/bb2abaf8-da4f-4d41-ba32-d56b6d7504c2/blob/main/frontend/screenshot/validation.png?raw=true)
 
 ### Select Position
-![alt](/screenshot/select.png)
+![alt](https://github.com/khulqu15/bb2abaf8-da4f-4d41-ba32-d56b6d7504c2/blob/main/frontend/screenshot/select.png?raw=true)
 
 ### Pagination
-![alt](/screenshot/pagination.png)
+![alt](https://github.com/khulqu15/bb2abaf8-da4f-4d41-ba32-d56b6d7504c2/blob/main/frontend/screenshot/pagination.png?raw=true)
 
 
 ## Getting Started
